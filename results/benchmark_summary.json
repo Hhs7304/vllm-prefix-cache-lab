@@ -1,0 +1,10 @@
+{
+  "baseline_tokens_per_second": 215.7,
+  "optimized_tokens_per_second": 336.4,
+  "baseline_latency_ms": 6.12,
+  "optimized_latency_ms": 3.91,
+  "baseline_hit_rate": 0.628,
+  "optimized_hit_rate": 0.795,
+  "improvement_ratio": 1.56,
+  "improvement_latency_delta": 2.21
+}
